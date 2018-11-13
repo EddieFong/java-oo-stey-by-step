@@ -1,4 +1,4 @@
-package practice05;
+package practice06;
 
 import practice03.Person;
 
